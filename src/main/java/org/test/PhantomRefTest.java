@@ -1,4 +1,4 @@
-package org.example;
+package org.test;
 
 import java.lang.ref.PhantomReference;
 import java.lang.ref.Reference;
